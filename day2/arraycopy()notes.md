@@ -1,5 +1,9 @@
 "arraycopy()"This is an inbuilt function used to copy contents from one array to another array.
 ![alt text](image-1.png)
+
+
+
+
 In the above example, we have used the arraycopy() method,
 
 System.arraycopy(n1, 0, n2, 0, n1.length) - entire elements from the n1 array are copied to n2 array
